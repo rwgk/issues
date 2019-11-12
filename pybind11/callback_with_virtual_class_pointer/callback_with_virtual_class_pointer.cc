@@ -21,16 +21,18 @@ class PyVirtualBase : public VirtualBase {
 PYBIND11_MODULE(callback_with_virtual_class_pointer, m) {
   namespace py = pybind11;
 
-  py::class_<VirtualBase, PyVirtualBase>(m, "VirtualBase")
+  py::class_<VirtualBase,
+             std::shared_ptr<VirtualBase>,
+             PyVirtualBase>(m, "VirtualBase")
       .def(py::init<>())
       .def("GetSomething", &VirtualBase::GetSomething)
   ;
 
-#ifdef NOT_NEEDED_TO_REPRODUCE_ISSUE
-  py::class_<VirtualDerived, VirtualBase>(m, "VirtualDerived")
+  py::class_<VirtualDerived,
+             std::shared_ptr<VirtualDerived>,
+             VirtualBase>(m, "VirtualDerived")
       .def(py::init<>())
   ;
-#endif
 
   m.def("UseCallback", &UseCallback);
   m.def("UseCppCallback", &UseCppCallback);
