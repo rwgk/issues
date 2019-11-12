@@ -36,6 +36,19 @@ PYBIND11_MODULE(callback_with_virtual_class_pointer, m) {
 
   m.def("UseCallback", &UseCallback);
   m.def("UseCppCallback", &UseCppCallback);
+
+  m.def("MakeVirtualDerivedAsBaseUniquePtr",
+        &MakeVirtualDerivedAsBaseUniquePtr
+        //,py::return_value_policy::take_ownership
+        //,py::return_value_policy::copy
+        //,py::return_value_policy::move
+        //,py::return_value_policy::reference
+        //,py::return_value_policy::reference_internal
+        //,py::return_value_policy::automatic
+        //,py::return_value_policy::automatic_reference
+       );
+  m.def("MakeVirtualDerivedAsBaseSharedPtr",
+        &MakeVirtualDerivedAsBaseSharedPtr);
 }
 
 }  // namespace callback_with_virtual_class_pointer

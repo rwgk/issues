@@ -35,6 +35,14 @@ inline int UseCppCallback() {
   return UseCallback(CppCallback);
 }
 
+inline std::unique_ptr<VirtualBase> MakeVirtualDerivedAsBaseUniquePtr() {
+  return std::unique_ptr<VirtualBase>(new VirtualDerived);
+}
+
+inline std::shared_ptr<VirtualBase> MakeVirtualDerivedAsBaseSharedPtr() {
+  return std::shared_ptr<VirtualBase>(new VirtualDerived);
+}
+
 }  // namespace callback_with_virtual_class_pointer
 
 #endif  // CALLBACK_WITH_VIRTUAL_CLASS_POINTER_H_

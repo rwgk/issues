@@ -24,6 +24,16 @@ def main(args):
   res = mut.UseCallback(PyCallback)
   print(res)
 
+  vbs = mut.MakeVirtualDerivedAsBaseSharedPtr()
+  print(type(vbs))
+  res = vbs.GetSomething()
+  print(res)
+
+  vbu = mut.MakeVirtualDerivedAsBaseUniquePtr()
+  print(type(vbu))
+  res = vbu.GetSomething()  # https://github.com/pybind/pybind11/issues/1138
+  print(res)
+
   print('Done.')
 
 
