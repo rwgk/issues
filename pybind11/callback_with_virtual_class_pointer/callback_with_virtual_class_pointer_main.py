@@ -13,6 +13,7 @@ import callback_with_virtual_class_pointer as mut
 def main(args):
   assert len(args) == 1
 
+  print('UseCppCallback')
   res = mut.UseCppCallback()
   print(res)
 
@@ -21,14 +22,17 @@ def main(args):
     res = vb.GetSomething()
     print(res)
     return res + 3
+  print('UseCallback')
   res = mut.UseCallback(PyCallback)
   print(res)
 
+  print('MakeVirtualDerivedAsBaseSharedPtr')
   vbs = mut.MakeVirtualDerivedAsBaseSharedPtr()
   print(type(vbs))
   res = vbs.GetSomething()
   print(res)
 
+  print('MakeVirtualDerivedAsBaseUniquePtr')
   vbu = mut.MakeVirtualDerivedAsBaseUniquePtr()
   print(type(vbu))
   res = vbu.GetSomething()  # https://github.com/pybind/pybind11/issues/1138
