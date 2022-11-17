@@ -1,0 +1,502 @@
+top - 14:55:49 up 17 days, 14:43,  7 users,  load average: 0.72, 0.67, 0.61
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.3 us,  1.6 sy,  0.0 ni, 88.6 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st
+MiB Mem :  64316.3 total,  43388.9 free,   7803.4 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55754.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18860  10608   7496 R 100.0   0.0   0:02.16 initialize_fina
+
+top - 14:55:52 up 17 days, 14:44,  7 users,  load average: 0.72, 0.67, 0.61
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.0 ni, 92.2 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43387.9 free,   7804.3 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55753.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18856  10604   7496 R 100.0   0.0   0:05.16 initialize_fina
+
+top - 14:55:55 up 17 days, 14:44,  7 users,  load average: 0.82, 0.69, 0.62
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.4 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43387.2 free,   7805.0 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55753.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18856  10604   7496 R  99.3   0.0   0:08.15 initialize_fina
+
+top - 14:55:58 up 17 days, 14:44,  7 users,  load average: 0.82, 0.69, 0.62
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.1 sy,  0.1 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43386.2 free,   7806.0 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55752.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19124  10600   7496 R 100.0   0.0   0:11.15 initialize_fina
+
+top - 14:56:01 up 17 days, 14:44,  7 users,  load average: 0.92, 0.71, 0.63
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.8 us,  1.5 sy,  0.0 ni, 90.8 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43383.0 free,   7809.5 used,  13123.9 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55748.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19128  10604   7496 R  99.7   0.0   0:14.14 initialize_fina
+
+top - 14:56:04 up 17 days, 14:44,  7 users,  load average: 0.92, 0.72, 0.63
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.3 sy,  0.4 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43366.9 free,   7825.8 used,  13123.7 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55732.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18852  10600   7496 R 100.0   0.0   0:17.14 initialize_fina
+
+top - 14:56:07 up 17 days, 14:44,  7 users,  load average: 0.92, 0.72, 0.63
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  1.2 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43366.4 free,   7826.1 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55732.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18852  10600   7496 R  99.7   0.0   0:20.14 initialize_fina
+
+top - 14:56:10 up 17 days, 14:44,  7 users,  load average: 1.01, 0.74, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.5 us,  1.1 sy,  0.0 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43378.4 free,   7814.0 used,  13123.9 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55744.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19124  10600   7496 R 100.0   0.0   0:23.14 initialize_fina
+
+top - 14:56:13 up 17 days, 14:44,  7 users,  load average: 1.01, 0.74, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.0 sy,  0.0 ni, 92.4 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :  64316.3 total,  43376.8 free,   7815.5 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55742.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18852  10600   7496 R 100.0   0.0   0:26.14 initialize_fina
+
+top - 14:56:16 up 17 days, 14:44,  7 users,  load average: 1.01, 0.74, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  1.2 sy,  0.0 ni, 92.3 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43376.6 free,   7815.9 used,  13123.9 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55742.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19140  10620   7496 R 100.0   0.0   0:29.14 initialize_fina
+
+top - 14:56:19 up 17 days, 14:44,  7 users,  load average: 1.01, 0.75, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.5 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.4 si,  0.0 st
+MiB Mem :  64316.3 total,  43374.4 free,   7818.0 used,  13123.9 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55740.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.3   0.0   0:32.13 initialize_fina
+
+top - 14:56:22 up 17 days, 14:44,  7 users,  load average: 1.01, 0.75, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.0 sy,  0.0 ni, 92.1 id,  0.1 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43373.6 free,   7818.7 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55739.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.7   0.0   0:35.12 initialize_fina
+
+top - 14:56:25 up 17 days, 14:44,  7 users,  load average: 1.01, 0.75, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  1.1 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :  64316.3 total,  43372.9 free,   7819.4 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55738.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.7   0.0   0:38.11 initialize_fina
+
+top - 14:56:28 up 17 days, 14:44,  7 users,  load average: 1.01, 0.75, 0.64
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.2 ni, 91.6 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :  64316.3 total,  43369.6 free,   7822.6 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55735.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19144  10620   7496 R 100.0   0.0   0:41.12 initialize_fina
+
+top - 14:56:31 up 17 days, 14:44,  7 users,  load average: 1.09, 0.77, 0.65
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.4 sy,  0.0 ni, 91.6 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43368.9 free,   7823.7 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55734.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19140  10616   7496 R  99.0   0.0   0:44.10 initialize_fina
+
+top - 14:56:34 up 17 days, 14:44,  7 users,  load average: 1.08, 0.78, 0.65
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.5 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43366.0 free,   7826.8 used,  13123.6 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55731.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R 100.0   0.0   0:47.11 initialize_fina
+
+top - 14:56:37 up 17 days, 14:44,  7 users,  load average: 1.08, 0.78, 0.65
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.2 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43365.7 free,   7827.0 used,  13123.6 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55731.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18852  10600   7496 R  99.7   0.0   0:50.10 initialize_fina
+
+top - 14:56:40 up 17 days, 14:44,  7 users,  load average: 1.07, 0.78, 0.65
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.3 sy,  0.1 ni, 91.7 id,  0.1 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43365.2 free,   7827.4 used,  13123.7 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55730.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.3   0.0   0:53.09 initialize_fina
+
+top - 14:56:43 up 17 days, 14:44,  7 users,  load average: 1.07, 0.78, 0.65
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.4 us,  1.3 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+MiB Mem :  64316.3 total,  43338.0 free,   7854.5 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55703.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19140  10620   7496 R 100.0   0.0   0:56.10 initialize_fina
+
+top - 14:56:46 up 17 days, 14:44,  7 users,  load average: 1.31, 0.84, 0.67
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.2 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :  64316.3 total,  43337.5 free,   7855.0 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55703.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.7   0.0   0:59.09 initialize_fina
+
+top - 14:56:49 up 17 days, 14:44,  7 users,  load average: 1.28, 0.84, 0.67
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.1 sy,  0.0 ni, 92.2 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :  64316.3 total,  43336.8 free,   7855.6 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55702.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19140  10616   7496 R 100.0   0.0   1:02.10 initialize_fina
+
+top - 14:56:52 up 17 days, 14:45,  7 users,  load average: 1.28, 0.84, 0.67
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  0.9 sy,  0.0 ni, 92.3 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43336.3 free,   7856.0 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55702.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.0   0.0   1:05.08 initialize_fina
+
+top - 14:56:55 up 17 days, 14:45,  7 users,  load average: 1.26, 0.84, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43336.1 free,   7856.1 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55702.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18876  10624   7496 R 100.0   0.0   1:08.08 initialize_fina
+
+top - 14:56:58 up 17 days, 14:45,  7 users,  load average: 1.26, 0.84, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.2 sy,  0.1 ni, 91.8 id,  0.1 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43335.8 free,   7856.2 used,  13124.3 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55701.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18852  10600   7496 R 100.0   0.0   1:11.08 initialize_fina
+
+top - 14:57:01 up 17 days, 14:45,  7 users,  load average: 1.24, 0.84, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.4 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43334.6 free,   7857.9 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55700.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.7   0.0   1:14.08 initialize_fina
+
+top - 14:57:04 up 17 days, 14:45,  7 users,  load average: 1.22, 0.85, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.3 sy,  0.4 ni, 91.4 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.9 free,   7859.6 used,  13123.9 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R 100.0   0.0   1:17.08 initialize_fina
+
+top - 14:57:07 up 17 days, 14:45,  7 users,  load average: 1.22, 0.85, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.0 ni, 92.2 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.9 free,   7859.5 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R 100.0   0.0   1:20.08 initialize_fina
+
+top - 14:57:10 up 17 days, 14:45,  7 users,  load average: 1.20, 0.85, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.2 sy,  0.1 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.9 free,   7859.4 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18872  10620   7496 R  99.7   0.0   1:23.08 initialize_fina
+
+top - 14:57:13 up 17 days, 14:45,  7 users,  load average: 1.20, 0.85, 0.68
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.0 ni, 92.2 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.9 free,   7859.4 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   1:26.09 initialize_fina
+
+top - 14:57:16 up 17 days, 14:45,  7 users,  load average: 1.27, 0.87, 0.69
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.1 sy,  0.1 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.4 free,   7859.8 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.3   0.0   1:29.07 initialize_fina
+
+top - 14:57:19 up 17 days, 14:45,  7 users,  load average: 1.24, 0.87, 0.69
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.0 sy,  0.1 ni, 92.1 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.4 free,   7859.8 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.7   0.0   1:32.06 initialize_fina
+
+top - 14:57:22 up 17 days, 14:45,  7 users,  load average: 1.24, 0.87, 0.69
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.1 sy,  0.0 ni, 91.9 id,  0.1 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.1 free,   7860.0 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.7   0.0   1:35.06 initialize_fina
+
+top - 14:57:25 up 17 days, 14:45,  7 users,  load average: 1.30, 0.89, 0.70
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.3 sy,  0.0 ni, 92.1 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43332.1 free,   7859.9 used,  13124.3 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   1:38.06 initialize_fina
+
+top - 14:57:28 up 17 days, 14:45,  7 users,  load average: 1.30, 0.89, 0.70
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.1 sy,  0.0 ni, 92.3 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.9 free,   7860.1 used,  13124.3 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55698.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19140  10616   7496 R 100.0   0.0   1:41.06 initialize_fina
+
+top - 14:57:31 up 17 days, 14:45,  7 users,  load average: 1.36, 0.91, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.2 sy,  0.1 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.9 free,   7860.6 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55697.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   1:44.06 initialize_fina
+
+top - 14:57:34 up 17 days, 14:45,  7 users,  load average: 1.33, 0.91, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  1.4 sy,  0.1 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.7 free,   7860.8 used,  13123.8 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55697.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.0   0.0   1:47.04 initialize_fina
+
+top - 14:57:37 up 17 days, 14:45,  7 users,  load average: 1.33, 0.91, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.0 ni, 91.8 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.4 free,   7861.0 used,  13123.9 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55697.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19136  10616   7496 R 100.0   0.0   1:50.04 initialize_fina
+
+top - 14:57:40 up 17 days, 14:45,  7 users,  load average: 1.39, 0.93, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.2 sy,  0.1 ni, 91.8 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.2 free,   7861.1 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55696.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19136  10616   7496 R 100.0   0.0   1:53.04 initialize_fina
+
+top - 14:57:43 up 17 days, 14:45,  7 users,  load average: 1.39, 0.93, 0.71
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.1 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.2 free,   7861.1 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55697.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.3   0.0   1:56.03 initialize_fina
+
+top - 14:57:46 up 17 days, 14:45,  7 users,  load average: 1.43, 0.95, 0.72
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  0.9 sy,  0.1 ni, 92.3 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43331.5 free,   7860.7 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55697.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.7   0.0   1:59.02 initialize_fina
+
+top - 14:57:49 up 17 days, 14:45,  7 users,  load average: 1.40, 0.95, 0.72
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  1.3 sy,  0.0 ni, 92.4 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43335.2 free,   7856.9 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55701.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   2:02.02 initialize_fina
+
+top - 14:57:52 up 17 days, 14:46,  7 users,  load average: 1.40, 0.95, 0.72
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.4 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43338.6 free,   7853.4 used,  13124.3 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55704.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19136  10616   7496 R  99.7   0.0   2:05.02 initialize_fina
+
+top - 14:57:55 up 17 days, 14:46,  7 users,  load average: 1.45, 0.97, 0.73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.0 sy,  0.1 ni, 92.1 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.7 free,   7842.3 used,  13124.4 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55715.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.7   0.0   2:08.01 initialize_fina
+
+top - 14:57:58 up 17 days, 14:46,  7 users,  load average: 1.45, 0.97, 0.73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.1 sy,  0.1 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.2 free,   7843.2 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55714.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   2:11.01 initialize_fina
+
+top - 14:58:01 up 17 days, 14:46,  7 users,  load average: 1.49, 0.98, 0.74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  1.3 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.2 free,   7843.1 used,  13124.0 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55715.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.3   0.0   2:14.00 initialize_fina
+
+top - 14:58:04 up 17 days, 14:46,  7 users,  load average: 1.45, 0.98, 0.74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.2 us,  1.4 sy,  0.3 ni, 91.0 id,  0.1 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :  64316.3 total,  43347.6 free,   7844.6 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55713.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19136  10616   7496 R 100.0   0.0   2:17.00 initialize_fina
+
+top - 14:58:07 up 17 days, 14:46,  7 users,  load average: 1.45, 0.98, 0.74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.0 sy,  0.0 ni, 92.4 id,  0.0 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :  64316.3 total,  43350.6 free,   7841.5 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55716.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   2:20.00 initialize_fina
+
+top - 14:58:10 up 17 days, 14:46,  7 users,  load average: 1.50, 1.00, 0.75
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  1.2 sy,  0.0 ni, 92.4 id,  0.0 wa,  0.0 hi,  0.6 si,  0.0 st
+MiB Mem :  64316.3 total,  43350.1 free,   7841.9 used,  13124.3 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55716.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19136  10616   7496 R 100.0   0.0   2:23.00 initialize_fina
+
+top - 14:58:13 up 17 days, 14:46,  7 users,  load average: 1.50, 1.00, 0.75
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.1 us,  1.1 sy,  0.0 ni, 92.0 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43350.1 free,   7841.9 used,  13124.3 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55716.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19136  10616   7496 R 100.0   0.0   2:26.01 initialize_fina
+
+top - 14:58:16 up 17 days, 14:46,  7 users,  load average: 1.62, 1.04, 0.76
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.2 sy,  0.0 ni, 91.9 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43350.1 free,   7841.8 used,  13124.4 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55716.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   2:29.01 initialize_fina
+
+top - 14:58:19 up 17 days, 14:46,  7 users,  load average: 1.65, 1.05, 0.77
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.0 us,  1.1 sy,  0.1 ni, 92.1 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.6 free,   7842.2 used,  13124.5 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55715.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R 100.0   0.0   2:32.02 initialize_fina
+
+top - 14:58:22 up 17 days, 14:46,  7 users,  load average: 1.65, 1.05, 0.77
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.1 sy,  0.0 ni, 92.2 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.4 free,   7842.4 used,  13124.5 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55715.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18868  10616   7496 R  99.3   0.0   2:35.00 initialize_fina
+
+top - 14:58:25 up 17 days, 14:46,  7 users,  load average: 1.76, 1.08, 0.78
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.4 sy,  0.0 ni, 91.8 id,  0.0 wa,  0.0 hi,  0.7 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.1 free,   7842.6 used,  13124.6 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55715.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18852  10600   7496 R  99.7   0.0   2:38.00 initialize_fina
+
+top - 14:58:28 up 17 days, 14:46,  7 users,  load average: 1.76, 1.08, 0.78
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  1.1 sy,  0.0 ni, 92.2 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+MiB Mem :  64316.3 total,  43349.1 free,   7842.5 used,  13124.7 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55715.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   18856  10604   7496 R 100.0   0.0   2:41.00 initialize_fina
+
+top - 14:58:31 up 17 days, 14:46,  7 users,  load average: 1.78, 1.10, 0.78
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.8 us,  1.3 sy,  0.0 ni, 91.7 id,  0.0 wa,  0.0 hi,  1.2 si,  0.0 st
+MiB Mem :  64316.3 total,  43348.7 free,   7843.6 used,  13124.1 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55714.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1874615 rwgk      20   0   19124  10604   7496 R 100.0   0.0   2:44.00 initialize_fina
+
+top - 14:58:34 up 17 days, 14:46,  7 users,  load average: 1.71, 1.10, 0.79
+Tasks:   0 total,   0 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.6 us,  0.7 sy,  0.1 ni, 96.9 id,  0.1 wa,  0.0 hi,  0.5 si,  0.0 st
+MiB Mem :  64316.3 total,  43348.2 free,   7844.0 used,  13124.2 buff/cache
+MiB Swap:  34111.0 total,  33032.0 free,   1079.0 used.  55714.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
