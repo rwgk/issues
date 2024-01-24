@@ -23,8 +23,10 @@ int main()
     py::module_ mod = py::module_::create_extension_module("example", nullptr, new py::module_::module_def);
 #if 0
     py::class_<Base> base(mod, "Base", py::metaclass(abc_meta));
-#else
+#elif 0
     py::class_<Base> base(mod, "Base", py::metaclass(abc_meta), py::dynamic_attr());
+#else
+    py::class_<Base> base(mod, "Base", py::metaclass((PyObject *) &PyType_Type));
 #endif
     base.def("draw", &Base::draw, "Abstract method that subclasses must define");
     base.attr("draw") = abstract(base.attr("draw"));
